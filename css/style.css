@@ -1,0 +1,53 @@
+body{ background-color: #ec9918;}
+.first{display: flex; flex-wrap: nowrap; 
+      padding: 20px;
+       padding-left: 10px; }
+
+.first .logo img{ width:90px;
+     height: 50px;}
+.first .link1{padding-left: 0px;}    
+
+.first .link1 a{color: white; padding: 20px;
+                padding-left: 40px; font-size: 150%; text-decoration:none;  }
+
+.first .logo{ flex:1 1 40px;
+                padding-left: 10px;
+               width:100px;}
+
+.first .log a{color: white;  padding: 10px;
+                font-size: 150%; padding-left: 40px;
+             border:2px solid white; text-decoration:none;
+              border-radius: 30px; 
+              width:100px; height:90%;}
+ .first .link1 a:hover{color:solid whitesmoke;} 
+
+   .second span{color: white;
+     font-size: 300%;
+      overflow: auto;
+     border-left: 2px;  }
+  .bigdiv{display: flex;}
+ .second .me{
+      display: flex;
+      padding-top: 40px; } 
+
+ .second .we{color:red; 
+       border-left: 2px solid red;}
+
+.proper {display: flex;}  
+
+ .upthird .third {border:solid white 2px;
+      border-radius: 10px;
+     color:white; 
+     width: 180px; 
+     height: 20px;
+     font-size: 160%;
+     text-align: center;
+      padding:10px;} 
+.second .upthird{display: flex;}
+.second{display: flex;}
+.third .phone img{size: 30px; 
+     float: right; background-color:
+      antiquewhite; } 
+
+.upthird .car img  { width: 100%; height: 90%; }   
+.image{ display: flex;}
